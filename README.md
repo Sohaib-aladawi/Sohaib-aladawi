@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sohaib-aladawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="sohaib-aladawi" height="30" width="40" /></a>
 <a href="https://github.com/sohaib-aladawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="sohaib-aladawi" height="30" width="40" /></a>
-<a href="https://twitter.com/Suhaib_AlAdawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original-wordmark.svg" alt="Suhaib_AlAdawi" height="30" width="40" /></a>
+<a href="https://twitter.com/Suhaib_AlAdawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Suhaib_AlAdawi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
