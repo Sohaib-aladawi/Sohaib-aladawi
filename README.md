@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaib-aladawi" alt="sohaib-aladawi" /></a> </p>
 
-- 🔭 I’m currently working on **Y&R Landing Page**
+- 🔭 I’m currently working on **Accounting system**
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **Advance Laravel**
 
 - 👯 I’m looking to collaborate on **Web Development and Data Analysis**
+
+- 🏁 My Last Project <a herf="https://yandrtrading.com/">**Y and R trading**</a>
 
 - 📫 How to reach me **sohaib.aladawi@gmail.com**
 
