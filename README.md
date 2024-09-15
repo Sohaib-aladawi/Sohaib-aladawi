@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development and Data Analysis**
 
-- 🏁 My Last Project <a herf="https://yandrtrading.com/">**Y and R trading**</a>
+- 🏁 My Last Project <a href="https://yandrtrading.com/">**Y and R trading**</a>
 
 - 📫 How to reach me **sohaib.aladawi@gmail.com**
 
