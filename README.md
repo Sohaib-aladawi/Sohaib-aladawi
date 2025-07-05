@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sohaib.aladawi@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1QZKMNjuPOPKfgQii0PzvWCujruwTFK6B/view?usp=sharing](https://drive.google.com/file/d/14YXKZWxmCPbQvclDvYoWJj7U9mFkEHb_/view?usp=sharing))
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/14YXKZWxmCPbQvclDvYoWJj7U9mFkEHb_/view?usp=sharing])
 <h2 align="left">Connect with Me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sohaib-aladawi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
