@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sohaib-aladawi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://github.com/sohaib-aladawi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/Suhaib_AlAdawi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/Suhaib_AlAdawi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" /></a> -->
 </p>
 
 <h2 align="left">Languages</h2>
